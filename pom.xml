@@ -5,7 +5,7 @@
   <artifactId>DataStructure</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>DataStructure Maven Webapp</name>
+  <name>数据结构</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
